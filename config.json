@@ -1,0 +1,74 @@
+{
+  "recent_inputs": {
+    "General_Agreement_Template.docx": {
+      "template_type": "General_Agreement_Template.docx",
+      "business_name": "Shanghai Dosdai Network Tech Co.",
+      "agreement_date": "2025-03-12",
+      "seller_name": "Ivanlu",
+      "seller_email": "luivan@qq.com",
+      "store_link": "https://www.hk-pkc.com"
+    },
+    "Invoice_AD_Template.docx": {
+      "template_type": "Invoice_AD_Template.docx",
+      "invoice_my_address": "Shanghai Dosdai Network Tech Co., Ltd,Building 20, Unit 118 No. 1-42, Lane 83,Hongxiang North Road, Lingang, 200000,Shanghai,China",
+      "invoice_address": "HongKong MountainTai Household Limited\n OFFICE 5，8/F MEGA CUBE 8 WANGKWONGRD\n KOWLOONBAYKL",
+      "invoice_no": "SH25030556",
+      "invoice_date": "2025-03-12",
+      "table_data": "Advertising fee,B0DHFV99T3,155,14\nAdvertising fee,B0DHFV99T4,110,14\nAdvertising fee,B0DHFV99T5,170,14",
+      "bank_info": {
+        "account_name": ":SHANG HAI DUO SI DAI WANG LUO KE JI YOU XIAN GONG SI",
+        "account_number": "798277695",
+        "bank_code": "016",
+        "branch_code": "478",
+        "swift_code": "DHBKHKHH",
+        "bank_name": "DBS Bank (Hong Kong) Limited",
+        "bank_address": "18th Floor, The Center, 99 Queen's Road Central, Central",
+        "city": "Hong Kong SAR"
+      },
+      "amount": "6090.0"
+    },
+    "Invoice_Promo_Template.docx": {
+      "template_type": "Invoice_Promo_Template.docx",
+      "invoice_my_address": "Shanghai Dosdai Network Tech Co., Ltd,Building 20, Unit 118 No. 1-42, Lane 83,Hongxiang North Road, Lingang, 200000,Shanghai,China",
+      "invoice_address": "111",
+      "invoice_no": "2323",
+      "invoice_date": "2025-03-12",
+      "table_data": "Market Promotion ServiceFee,BOCHHZSCMV,GILOBABY Robot Toysfor Boys,599\nMarket Promotion ServiceFee,BOCHHVWFXV,GILOBABY Robot Toysfor Boys,599\nMarket Promotion ServiceFee,BOCHHZSCMA,GILOBABY Robot Toysfor Boys,599\nMarket Promotion ServiceFee,BOCHHVWFXB,GILOBABY Robot Toysfor Boys,599\nMarket Promotion ServiceFee,BOCHHZSCMV,GILOBABY Robot,450\nMarket Promotion ServiceFee,BOCHHVWFXV,GILOBABY Robot,450\nMarket Promotion ServiceFee,BOCHHZSCMA,GILOBABY Robot,450\nMarket Promotion ServiceFee,BOCHHVWFXB,GILOBABY Robot,450",
+      "bank_info": {
+        "account_name": ":SHANG HAI DUO SI DAI WANG LUO KE JI YOU XIAN GONG SI",
+        "account_number": "798277695",
+        "bank_code": "016",
+        "branch_code": "478",
+        "swift_code": "DHBKHKHH",
+        "bank_name": "DBS Bank (Hong Kong) Limited",
+        "bank_address": "18th Floor, The Center, 99 Queen's Road Central, Central",
+        "city": "Hong Kong SAR"
+      },
+      "amount": "1049.0"
+    }
+  },
+  "recent_files": [
+    "output\\20250312\\Invoice_Promo_20250312_143905.pdf",
+    "output\\20250312\\Invoice_AD_20250312_143853.pdf",
+    "output\\20250312\\Ivanlu-General_Agreement_20250312_143821.pdf",
+    "output\\20250312\\Ivanlu-General_Agreement_20250312_143600.pdf",
+    "output\\20250312\\Invoice_Promo_20250312_142955.pdf",
+    "output\\20250312\\Invoice_AD_20250312_142944.pdf",
+    "output\\20250312\\Ivanlu-General_Agreement_20250312_142923.pdf",
+    "output\\20250312\\Invoice_Promo_20250312_142329.pdf",
+    "output\\20250312\\Invoice_AD_20250312_142309.pdf",
+    "output\\20250312\\Invoice_AD_20250312_140838.pdf"
+  ],
+  "common_values": {
+    "seller_email": [
+      "luivan@qq.com"
+    ],
+    "seller_name": [
+      "Ivanlu",
+      "hk-pkc"
+    ],
+    "store_link": [
+      "https://www.hk-pkc.com"
+    ]
+  }
+}

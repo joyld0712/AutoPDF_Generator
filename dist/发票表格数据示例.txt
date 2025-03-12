@@ -1,0 +1,15 @@
+---广告发票---
+Invoice_AD_Template:
+	Advertising fee,B0DHFV99T3,155,14
+	Advertising fee,B0DHFV99T4,110,14
+	Advertising fee,B0DHFV99T5,170,14
+---提报发票---
+Invoice_Promo_Template
+	Market Promotion ServiceFee,BOCHHZSCMV,GILOBABY Robot Toysfor Boys,599
+        Market Promotion ServiceFee,BOCHHVWFXV,GILOBABY Robot Toysfor Boys,599
+	Market Promotion ServiceFee,BOCHHZSCMA,GILOBABY Robot Toysfor Boys,599
+	Market Promotion ServiceFee,BOCHHVWFXB,GILOBABY Robot Toysfor Boys,599
+	Market Promotion ServiceFee,BOCHHZSCMV,GILOBABY Robot,450
+	Market Promotion ServiceFee,BOCHHVWFXV,GILOBABY Robot,450
+	Market Promotion ServiceFee,BOCHHZSCMA,GILOBABY Robot,450
+	Market Promotion ServiceFee,BOCHHVWFXB,GILOBABY Robot,450

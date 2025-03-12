@@ -1,0 +1,46 @@
+{
+  "上海公司": "Shanghai Dosdai Network Tech Co., Ltd,Building 20, Unit 118 No. 1-42, Lane 83,Hongxiang North Road, Lingang, 200000,Shanghai,China",
+  "香港公司": "Number Seven Trading Limited,ROOM 40G BLK AD 19/F, GOLDEN BEAR IND CTR,66-82 CHAI WAN KOK ST, TSUEN WAN,HONG KONG",
+  "银行信息": {
+    "上海-香港银行": {
+      "account_name": ":SHANG HAI DUO SI DAI WANG LUO KE JI YOU XIAN GONG SI",
+      "account_number": "798277695",
+      "bank_code": "016",
+      "branch_code": "478",
+      "swift_code": "DHBKHKHH",
+      "bank_name": "DBS Bank (Hong Kong) Limited",
+      "bank_address": "18th Floor, The Center, 99 Queen's Road Central, Central",
+      "city": "Hong Kong SAR"
+    },
+    "上海-美国银行": {
+      "account_name": "SHANG HAI DUO SI DAI WANG LUO KE JI YOU XIAN GONG SI",
+      "account_number": "8455182810",
+      "bank_code": "026073150",
+      "branch_code": "026073008",
+      "swift_code": "CMFGUS33",
+      "bank_name": "Community Federal Savings Bank",
+      "bank_address": "89-16 Jamaica Ave,Woodhaven, NY,11421",
+      "city": "New York"
+    },
+    "香港-香港银行": {
+      "account_name": ":Number Seven Trading Limited",
+      "account_number": "799373304",
+      "bank_code": "016",
+      "branch_code": "478",
+      "swift_code": "DHBKHKHH",
+      "bank_name": "DBS Bank (Hong Kong) Limited",
+      "bank_address": "18th Floor, The Center, 99 Queen's Road Central, Central",
+      "city": "Hong Kong SAR"
+    },
+    "香港-美国银行": {
+      "account_name": "Number Seven Trading Limited",
+      "account_number": "8489526598",
+      "bank_code": "026073150",
+      "branch_code": "026073008",
+      "swift_code": "CMFGUS33",
+      "bank_name": "Community Federal Savings Bank",
+      "bank_address": "89-16 Jamaica Ave,Woodhaven, NY,11421",
+      "city": "New York"
+    }
+  }
+}

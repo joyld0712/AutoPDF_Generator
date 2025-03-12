@@ -1,0 +1,6 @@
+python-docx
+fpdf2
+tkcalendar
+pyinstaller
+docx2pdf
+reportlab
