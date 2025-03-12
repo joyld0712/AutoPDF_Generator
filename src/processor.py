@@ -340,21 +340,24 @@ def create_info_table(info_data, title, page_width):
     if title == "Bank Info: 美元账户":
         data.append(["(接受银行转账,及第三方如PingPong,空中云汇,万里汇等转账.)", ""])
         for key, value in info_data.items():
+            # 修改这里，将标签和值放在同一列，避免中间割裂
             data.append([f"{key.replace('_', ' ').title()}: {value}", ""])
     else:
         data.append([info_data['remark'], ""])
-    table = Table(data, colWidths=[page_width * 0.25, page_width * 0.75])
+    
+    # 修改列宽比例，使用单列布局
+    table = Table(data, colWidths=[page_width * 0.95, page_width * 0.05])
     table.setStyle(TableStyle([
         ('ALIGN', (0, 0), (0, -1), 'LEFT'),
         ('ALIGN', (1, 0), (1, -1), 'LEFT'),
         ('FONTNAME', (0, 0), (-1, -1), 'Microsoft YaHei'),
         ('FONTSIZE', (0, 0), (-1, -1), 9),
-        ('LEFTPADDING', (0, 0), (0, -1), 3),
-        ('RIGHTPADDING', (0, 0), (0, -1), 10),
-        ('LEFTPADDING', (1, 0), (1, -1), 10),
-        ('RIGHTPADDING', (1, 0), (1, -1), 3),
-        ('TOPPADDING', (0, 0), (-1, -1), 2),
-        ('BOTTOMPADDING', (0, 0), (-1, -1), 2),
+        ('LEFTPADDING', (0, 0), (0, -1), 10),  # 增加左侧填充
+        ('RIGHTPADDING', (0, 0), (0, -1), 3),
+        ('LEFTPADDING', (1, 0), (1, -1), 0),  # 减少右列填充
+        ('RIGHTPADDING', (1, 0), (1, -1), 0),
+        ('TOPPADDING', (0, 0), (-1, -1), 3),  # 增加垂直间距
+        ('BOTTOMPADDING', (0, 0), (-1, -1), 3),
         ('TEXTCOLOR', (0, 0), (-1, -1), colors.navy),
         ('FONTWEIGHT', (0, 0), (-1, -1), 'bold'),
         ('GRID', (0, 0), (-1, -1), 0, colors.white),
